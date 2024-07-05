@@ -1,4 +1,4 @@
-# 4-define_variables.py
+#!/usr/bin/env python3
 
 a: int = 1
 pi: float = 3.14
